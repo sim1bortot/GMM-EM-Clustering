@@ -38,6 +38,7 @@ To run this project, you will need the following Python libraries:
 You can install them all with a single `pip` command:
 ```bash
 pip install numpy pandas matplotlib scipy
+ ```
 
 ---
 ## 🚀 How to Use
